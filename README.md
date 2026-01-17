@@ -16,3 +16,9 @@ A minimal, self-contained Q-learning example that trains a 4×4 grid-world agent
 1. Make sure you have Python ≥3.8 and NumPy installed:
    ```bash
    pip install numpy
+
+
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Reinforcement-Learning-Using-Numpy&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Reinforcement-Learning-Using-Numpy&type=date&legend=top-left)
+
