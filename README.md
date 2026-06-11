@@ -5,6 +5,9 @@
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Reinforcement-Learning-Using-Numpy)](https://github.com/ishandutta2007/Reinforcement-Learning-Using-Numpy/network)
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+<a href="https://github.com/ishandutta2007?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ishandutta2007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
 
 A minimal, self-contained **Q-learning** implementation that trains a 4×4 grid-world agent **without any high-level library except NumPy**. This project is an ideal educational resource for understanding the core mechanics of Reinforcement Learning (RL) from first principles.
 
